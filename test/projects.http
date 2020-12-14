@@ -3,7 +3,10 @@ POST http://localhost:4004/public/Projects
 Content-Type: application/json
 
 {
-    "name": "cds-pg - PostgreSQL adapter for SAP CDS (CAP)",
+    "name": "cds-pg - PostgreSQL adapter for SAP CDS (CAP) 2",
     "repository": "https://github.com/sapmentors/cds-pg",
     "language": "Node.js"
 }
+### Get
+GET http://localhost:4004/public/Projects?$count=true
+Content-Type: application/json

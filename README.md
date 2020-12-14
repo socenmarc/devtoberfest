@@ -1,6 +1,11 @@
 # About this
 CAP app deployed to local PostgreSQL following this blog https://blogs.sap.com/2020/11/16/getting-started-with-cap-on-postgresql-node.js/
 
+## PostgreSQL login data
+http://localhost:8080
+"database": "devtoberfest",
+"user": "postgres",
+"password": "postgres"
 
 # Getting Started
 
